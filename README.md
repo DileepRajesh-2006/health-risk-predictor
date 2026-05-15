@@ -69,9 +69,7 @@ Run development server:
 
 npm run dev
 
-Open in browser:
 
-http://localhost:3000
 
 🎯 Future Improvements
 Add prediction probability/confidence score
